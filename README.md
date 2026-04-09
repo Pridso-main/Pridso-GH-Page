@@ -5,7 +5,7 @@
 🎓 En 2ème année de **BUT Réseaux & Télécoms**, option **Cybersécurité**  
 ⚡ Je construis des projets concrets pour apprendre — IoT, web, desktop  
 🧗 Grimpeur & bénévole au club **LaGrimpe** (Tournon-sur-Rhône)  
-🔭 Actuellement : amélioration de CondiTracker v2
+🔭 Actuellement : amélioration de CondiTracker v2 et Construction du site LaGrimpe
 
 ---
 
