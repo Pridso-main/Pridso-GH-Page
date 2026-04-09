@@ -32,7 +32,7 @@ Site complet pour un club d'escalade : horaires en temps réel, gestion des év�
 ---
 
 ### 📡 CondiTracker — Station météo IoT pour grimpeurs
-Projet universitaire (SAE 33) devenu une vraie POC : station autonome qui calcule une **note de condition /10** pour savoir si une falaise est grimpable.  
+Projet universitaire (SAE 33) : station autonome qui calcule une **note de condition /10** pour savoir si une falaise est grimpable.  
 Architecture 4-tiers : Arduino → Java 21 → MariaDB → Interface Web  
 **Stack :** Arduino (C++) · Java · PHP · MariaDB
 
