@@ -27,7 +27,7 @@
 ### 🌐 LaGrimpe — Site web club d'escalade `[privé]`
 Site complet pour un club d'escalade : horaires en temps réel, gestion des événements, CMS headless pour les bénévoles, déployé sur Vercel.  
 **Stack :** Astro · Keystatic CMS · Vercel  
-🔗 **[siteweb-lagrimpe.vercel.app](https://siteweb-lagrimpe.vercel.app)**
+🔗 **[laGrimpe](https://lagrimpe.fr)**
 
 ---
 
